@@ -1,6 +1,7 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
-
-for self-checking their submission.
+The object of the game is get the player to the water.
+Move the player with arrow keys.
+Collisions with enemy bugs will reset the player to the starting point.
+Each time the player wins a new enemy bug will be added.
